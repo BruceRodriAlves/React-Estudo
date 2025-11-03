@@ -1,7 +1,7 @@
 import './formulario-de-evento.estilos.css';
 import { CampoDeEntrada } from "../CampoDeEntrada";
 import { CampoDeFormulario } from "../CampoDeFormulario";
-import { Label } from "../Label/inedx";
+import { Label } from "../Label";
 import { TituloFormulario } from "../TituloFormulario";
 
 export function FormularioDeEvento() {

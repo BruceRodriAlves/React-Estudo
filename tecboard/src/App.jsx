@@ -7,7 +7,7 @@ function App () {
   return (
     <main>
       <header>
-        <img src="/logo.pgn" alt="" />
+        <img src="/logo.png" alt="" />
       </header>
       <section>
         <img src="/banner.png" alt="" />
